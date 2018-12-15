@@ -1,0 +1,11 @@
+C:\Users\Famila Mota\Desktop\Projection\bin\Debug\netcoreapp2.2\Projection.deps.json
+C:\Users\Famila Mota\Desktop\Projection\bin\Debug\netcoreapp2.2\Projection.runtimeconfig.json
+C:\Users\Famila Mota\Desktop\Projection\bin\Debug\netcoreapp2.2\Projection.runtimeconfig.dev.json
+C:\Users\Famila Mota\Desktop\Projection\bin\Debug\netcoreapp2.2\Projection.dll
+C:\Users\Famila Mota\Desktop\Projection\bin\Debug\netcoreapp2.2\Projection.pdb
+C:\Users\Famila Mota\Desktop\Projection\obj\Debug\netcoreapp2.2\Projection.csprojAssemblyReference.cache
+C:\Users\Famila Mota\Desktop\Projection\obj\Debug\netcoreapp2.2\Projection.csproj.CoreCompileInputs.cache
+C:\Users\Famila Mota\Desktop\Projection\obj\Debug\netcoreapp2.2\Projection.AssemblyInfoInputs.cache
+C:\Users\Famila Mota\Desktop\Projection\obj\Debug\netcoreapp2.2\Projection.AssemblyInfo.cs
+C:\Users\Famila Mota\Desktop\Projection\obj\Debug\netcoreapp2.2\Projection.dll
+C:\Users\Famila Mota\Desktop\Projection\obj\Debug\netcoreapp2.2\Projection.pdb
